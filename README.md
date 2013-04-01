@@ -1,4 +1,6 @@
-ShareKitARC
+ShareKitARC  
+
+ShareKit ARC support,
 
 ShareKitARC is the arc converted implementation of ShareKit for iPhone and iPad. You can download source code then put 
 ShareKitARC files to your own project that is created with automatic reference counting. 
